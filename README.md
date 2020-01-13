@@ -5,6 +5,7 @@ Requerimientos para correr el proyecto:
 - MySql
 - Laravel 6
 - PHP >= 7.2.0
+- composer
 
 <h2>BASE DE DATOS </h2>
 
@@ -14,7 +15,7 @@ luego desde la terminal ubicandondose en la raíz del proyecto ejecutar php arti
 
 <h2>CORRIENDO SERVIDOR</h2>
 
-para poner en funcionamiento el servidor se debe ejecutar desde la terminal el comando php artisan serve, estoy creara un servidor local corriendo en el puerto 8000
+primer correr el comando composer install en la terminal para instalar las dependencias del proyecto, luego para poner en funcionamiento el servidor se debe ejecutar desde la terminal el comando php artisan serve, estoy creara un servidor local corriendo en el puerto 8000
 
 <h2>CORRIENDO PROYECTO FRONT END / CLIENTE</h2>
 
