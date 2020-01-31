@@ -21,5 +21,5 @@ primer correr el comando composer install en la terminal para instalar las depen
 
 como parte de la prueba se realizó un projecto cliente para consumir los servicios que se exponen en esta API. a continuación se encuentra el link del repositorio con las instrucciones para su uso
 
-PROYECTO FRONT: https://github.com/hposaday/oneItemStoreFront
+PROYECTO FRONT: https://github.com/hposaday/currencyChangeFront
 
